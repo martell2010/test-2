@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Feature two page</h1>
+        <h1>Feature two</h1>
         <some-component/>
     </div>
 </template>
